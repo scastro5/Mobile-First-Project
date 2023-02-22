@@ -232,6 +232,7 @@ main {
 }
 .main-share-table .share-table--title {
     margin-bottom: 15px;
+    padding-left: 20px;
     font-size: 1.8rem;
     font-weight: bold;
     line-height: 2.3rem;
